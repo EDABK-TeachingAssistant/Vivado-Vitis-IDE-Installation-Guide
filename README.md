@@ -3,6 +3,8 @@
 - Phiên bản: 2024.1
 - Trước mỗi mục sẽ có cặp ngoặc vuông thể hiện thời gian ước tính cần thực hiện cho mỗi bước, nhằm giúp sắp xếp thời gian thực hiện cho hợp lý
 - Tổng thời gian thực hiện ***nếu mạng nhanh, ổn định và máy tính không bị lỗi***: ~7h
+- Tổng dung lượng cần trong quá trình cài: ~90GB
+- Tổng dung lượng sau khi cài đặt hoàn tất: ~56GB
 - Hướng dẫn dưới đây sử dụng Ubuntu 22.04. Các bản Linux khác và Windows thực hiện tương tự
 
 
